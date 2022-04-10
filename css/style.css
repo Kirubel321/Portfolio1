@@ -13,7 +13,7 @@ body{
     /* This is what makes the background image rescale based
     on the container's size */
     background-size: cover;
-    background-color: #7A7C7B;
+    background-color: #8EFDAB;
 }
 
 .sect_1{
@@ -33,12 +33,14 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #0F6FA9  ;
 }
 .cont_in_2{
     background-image: url(../images/bg_6.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #7BFEBE ;
 }
 .cont_in_3{
     background-image: url(../images/bg_8.jpg);
@@ -52,7 +54,6 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: 'Rubik Puddles', cursive;
 }
 .cont_in_5{
     background-image: url(../images/bg_4.jpg);
