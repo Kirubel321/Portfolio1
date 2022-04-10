@@ -1,0 +1,114 @@
+body{
+    font-family: 'Source Serif Pro', serif;
+    background-image: url(../images/bg_4.jpg);
+    background-position: center center;
+
+    /* Background image doesn't tile */
+    background-repeat: no-repeat;
+
+    /* Background image is fixed in the viewport so that it doesn't move when
+    the content's height is greater than the image's height */
+    background-attachment: fixed;
+
+    /* This is what makes the background image rescale based
+    on the container's size */
+    background-size: cover;
+}
+
+.sect_1{
+    height: 1000px;
+}
+.sect_2{
+    height: 720px;
+}
+.cont{
+    background-image: url(../images/bg_2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cont_in{
+    background-image: url(../images/bg_5.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cont_in_2{
+    background-image: url(../images/bg_6.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cont_in_3{
+    background-image: url(../images/bg_8.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cont_in_4{
+    background-image: url(../images/bg_9.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Rubik Puddles', cursive;
+}
+.cont_in_5{
+    background-image: url(../images/bg_4.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cont_in_6{
+    background-image: url(../images/w_2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cont_in_7{
+    background-image: url(../images/w_1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fot_col_1{
+
+    margin-right: -37px;
+    padding-right:0%;
+}
+.fot_col_2{
+
+    padding-left:0%;
+}
+h1,h2,c{
+    font-family: 'Rubik Wet Paint', cursive;
+}
+main h2{
+    color: #02C3FC ;
+    font-family: 'Rubik Microbe', cursive;
+    font-weight: 500;
+}
+nav a{
+    font-family: 'Rubik Puddles', cursive;
+}
+p{
+    color: #FFD565;
+    font-weight: 500;   
+    font-family: 'Rubik Puddles', cursive;
+}
+.cont_in_4 code{
+    color: #A4FE06;
+    font-family: 'Rubik Wet Paint', cursive;
+    font-weight: 1000;
+    text-shadow: 5px 5px #184051;
+}
+h1{
+    color: #27FCA1;
+    text-shadow: 5px 5px #184051;
+}
+li a{
+    font-weight: 1000;
+}
+h2{
+    color: #87E0FA ;
+}
