@@ -80,7 +80,7 @@ body{
 
     padding-left:0%;
 }
-h1,h2,c{
+h1,h2{
     font-family: 'Rubik Wet Paint', cursive;
 }
 main h2{
@@ -88,7 +88,7 @@ main h2{
     font-family: 'Rubik Microbe', cursive;
     font-weight: 500;
 }
-sect_1 p{
+cont_in p{
     color: #FFD565;
     font-weight: 500;   
     font-family: 'Rubik Puddles', cursive;
