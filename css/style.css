@@ -13,6 +13,7 @@ body{
     /* This is what makes the background image rescale based
     on the container's size */
     background-size: cover;
+    background-color: #7A7C7B;
 }
 
 .sect_1{
