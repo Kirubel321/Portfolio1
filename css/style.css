@@ -88,10 +88,7 @@ main h2{
     font-family: 'Rubik Microbe', cursive;
     font-weight: 500;
 }
-nav a{
-    font-family: 'Rubik Puddles', cursive;
-}
-p{
+sect_1 p{
     color: #FFD565;
     font-weight: 500;   
     font-family: 'Rubik Puddles', cursive;
