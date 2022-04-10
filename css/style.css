@@ -88,9 +88,11 @@ main h2{
     font-family: 'Rubik Microbe', cursive;
     font-weight: 500;
 }
-.cont_in p{
+p{
     color: #FFD565;
     font-weight: 500;   
+}
+.p_style{
     font-family: 'Rubik Puddles', cursive;
 }
 .cont_in_4 code{
