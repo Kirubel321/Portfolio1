@@ -13,7 +13,7 @@ body{
     /* This is what makes the background image rescale based
     on the container's size */
     background-size: cover;
-    background-color: #E7FFD9 ;
+    background-color: #02A4B3;
 }
 
 .sect_1{
@@ -33,14 +33,14 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #0F6FA9;
+    background-color: #7BFEBE ;
 }
 .cont_in_2{
     background-image: url(../images/bg_6.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #015D21;
+    background-color: #0F6FA9  ;
 }
 .cont_in_3{
     background-image: url(../images/bg_8.jpg);
@@ -48,19 +48,13 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-
 .cont_in_4{
     background-image: url(../images/bg_9.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
-.cont_in_5{
-    background-image: url(../images/bg_4.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+
 .cont_in_6{
     background-image: url(../images/w_2.jpg);
     background-position: center center;
@@ -72,6 +66,7 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color:lavender;
 }
 .fot_col_1{
 
@@ -82,7 +77,7 @@ body{
 
     padding-left:0%;
 }
-h1,h2{
+h1,h2,c{
     font-family: 'Rubik Wet Paint', cursive;
 }
 main h2{
@@ -92,7 +87,7 @@ main h2{
 }
 p{
     color: #FFD565;
-    font-weight: 500;   
+    font-weight: 500;      
 }
 .p_style{
     font-family: 'Rubik Puddles', cursive;
