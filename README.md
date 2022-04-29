@@ -1,9 +1,11 @@
 # Portfolio
 
 •	Bootstrap Navbar
+
 These responsive navbar will be collapsed on devices having small viewports like mobile phones but expand when user click the toggle button. However, it will be horizontal as normal on the medium and large devices such as laptop or desktop.
 
 •	Bootstrap Containers
+
 Containers are the most basic layout element in Bootstrap and are required when using the grid system. Containers are basically used to wrap content with some padding. They are also used to align the content horizontally center on the page in case of fixed width layout.
 Bootstrap provides three different types containers:
 .container, which has a max-width at each responsive breakpoint.
@@ -13,7 +15,9 @@ The table below illustrates how each container's max-width changes across each b
 For example, when using the .container class the actual width of the container will be 100% if the viewport width is <576px, 540px if the viewport width is ≥576px but <768px, 720px if the viewport width is ≥768px but <992px, 960px if the viewport width is ≥992px but <1200px, 1140px if the viewport width is ≥1200px but <1400px, and 1320px if the viewport width is ≥1400px.
 You can simply use the .container class to create a responsive, fixed-width container. The width of the container will change at different breakpoints or screen sizes.
 You can use the .container-fluid class to create a full width container. The width of the fluid container will always be 100% irrespective of the devices or screen sizes.
+
 •	Bootstrap Grid System
+
 Bootstrap grid system provides an easy and powerful way to create responsive layouts of all shapes and sizes. It is built with flexbox with mobile-first approach. Also, it is fully responsive and uses twelve column system (12 columns available per row) and six default responsive tiers.
 Features
 Bootstrap  Grid System	X-Small (xs)
